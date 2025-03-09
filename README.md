@@ -3,7 +3,7 @@
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminded oluşturduğumuz ilk repo.İçerisinde bir adet
 README dosyası, bir adet de index.html barındırıyor.
 
-![Proje Gorsel](/github.png)
+![Proje Gorsel](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
 
 ## Installation
 
